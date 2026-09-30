@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open issues on the main repository
+    url: https://github.com/melophos/melophos/issues/new/choose
+    about: Every MELOPHOS component is developed in melophos/melophos. Please open issues there.
+  - name: Questions and build help
+    url: https://github.com/melophos/melophos/discussions
+    about: Setup questions, build questions and ideas.
+  - name: Report a vulnerability
+    url: https://github.com/melophos/melophos/security/advisories/new
+    about: Report security issues privately, never in a public issue.
