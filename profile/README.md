@@ -68,6 +68,13 @@ The written plan, with targets for each version, is in [docs/roadmap.md](https:/
 
 ## Built with
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,arduino,rust,wasm,py,fastapi,postgres,ts,vite,docker&theme=dark">
+    <img src="https://skillicons.dev/icons?i=cpp,arduino,rust,wasm,py,fastapi,postgres,ts,vite,docker&theme=light" alt="C++, Arduino, Rust, WebAssembly, Python, FastAPI, PostgreSQL, TypeScript, Vite and Docker">
+  </picture>
+</p>
+
 | Layer | Stack |
 | --- | --- |
 | Hub firmware | C++ on the ESP32-S3 with PlatformIO and FastLED |
