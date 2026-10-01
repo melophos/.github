@@ -68,12 +68,33 @@ The written plan, with targets for each version, is in [docs/roadmap.md](https:/
 
 ## Built with
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,arduino,rust,wasm,py,fastapi,postgres,ts,vite,docker&theme=dark">
-    <img src="https://skillicons.dev/icons?i=cpp,arduino,rust,wasm,py,fastapi,postgres,ts,vite,docker&theme=light" alt="C++, Arduino, Rust, WebAssembly, Python, FastAPI, PostgreSQL, TypeScript, Vite and Docker">
-  </picture>
-</p>
+<div align="center">
+
+### Languages
+
+| <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60"> | <img src="https://cdn.simpleicons.org/rust/000000/ffffff" alt="Rust" width="60"> | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60"> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60"> |
+| :---: | :---: | :---: | :---: |
+| **C++** | **Rust** | **Python** | **TypeScript** |
+
+### Hub and hardware
+
+| <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60"> | <img src="https://cdn.simpleicons.org/kicad/314CB0" alt="KiCad" width="60"> |
+| :---: | :---: | :---: |
+| **ESP32** | **Arduino** | **KiCad** |
+
+### Server and data
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"> | <img src="https://cdn.simpleicons.org/timescale/FDB515" alt="TimescaleDB" width="60"> | <img src="https://cdn.simpleicons.org/mqtt/660066/ffffff" alt="MQTT" width="60"> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60"> |
+| :---: | :---: | :---: | :---: | :---: |
+| **FastAPI** | **PostgreSQL** | **TimescaleDB** | **MQTT** | **Docker** |
+
+### Studio
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" alt="WebAssembly" width="60"> |
+| :---: | :---: |
+| **Vite** | **WebAssembly** |
+
+</div>
 
 | Layer | Stack |
 | --- | --- |
