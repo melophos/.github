@@ -78,9 +78,9 @@ The written plan, with targets for each version, is in [docs/roadmap.md](https:/
 
 ### Hub and hardware
 
-| <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60"> | <img src="https://cdn.simpleicons.org/kicad/314CB0" alt="KiCad" width="60"> |
-| :---: | :---: | :---: |
-| **ESP32** | **Arduino** | **KiCad** |
+| <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60"> | <img src="https://cdn.simpleicons.org/platformio/F5822A" alt="PlatformIO" width="60"> | <img src="https://raw.githubusercontent.com/FastLED/FastLED/master/docs/include/fastled_logo.png" alt="FastLED" width="60"> | <img src="https://cdn.simpleicons.org/kicad/314CB0" alt="KiCad" width="60"> |
+| :---: | :---: | :---: | :---: | :---: |
+| **ESP32** | **Arduino** | **PlatformIO** | **FastLED** | **KiCad** |
 
 ### Server and data
 
@@ -90,9 +90,15 @@ The written plan, with targets for each version, is in [docs/roadmap.md](https:/
 
 ### Studio
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" alt="WebAssembly" width="60"> |
-| :---: | :---: |
-| **Vite** | **WebAssembly** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" alt="WebAssembly" width="60"> | <img src="https://cdn.simpleicons.org/midi/000000/ffffff" alt="Web MIDI" width="60"> | <img src="https://cdn.simpleicons.org/bluetooth/0082FC" alt="Web Bluetooth" width="60"> |
+| :---: | :---: | :---: | :---: |
+| **Vite** | **WebAssembly** | **Web MIDI** | **Web Bluetooth** |
+
+### Instrument profiles
+
+| <img src="https://cdn.simpleicons.org/json/000000/ffffff" alt="JSON" width="60"> |
+| :---: |
+| **JSON** |
 
 </div>
 
