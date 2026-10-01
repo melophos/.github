@@ -15,7 +15,20 @@
 
 I have monocular vision, which makes judging depth and scanning across a wide 88-key keyboard harder than it looks. Light-up keyboards helped, but every one I found was locked to one brand's app, one instrument and a subscription.
 
-MELOPHOS is the tool I wanted: lights on a single flat line right where my hands are, any instrument I own now or later and my practice data kept on my own server. The name is pronounced MEL-oh-fos, from the Greek *melos* (song) and *phos* (light).
+MELOPHOS is the tool I wanted: lights on a single flat line right where my hands are, any instrument I own now or later and my practice data kept on my own server.
+
+## The name
+
+The name, pronounced MEL-oh-fos, joins two Greek words:
+
+| Part | Root | Meaning |
+| --- | --- | --- |
+| MELO- | *mélos* (μέλος) | song or melody, the root behind *melody* |
+| -PHOS | *phôs* (φῶς) | light, the root behind *photon* and *photograph* |
+
+Together they describe what the hub does: it turns the notes of a song into light you can follow, which is where the tagline comes from: **song made visible**.
+
+MELOPHOS is the sister project of [PHAEMOS](https://github.com/phaemos), named the same way. The *phos* in MELOPHOS and the *phaen-* in PHAEMOS ("to reveal, to bring to light") go back to the same ancient root, meaning "to shine". One project brings failing machines to light, the other brings music to light.
 
 ## How it works
 
