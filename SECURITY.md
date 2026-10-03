@@ -5,4 +5,4 @@ MELOPHOS runs on a user's own network: a hub on Wi-Fi, a self-hosted server and 
 ## Reporting a vulnerability
 
 > [!IMPORTANT]
-> Report privately, never in a public issue. Use [GitHub private vulnerability reporting](https://github.com/melophos/melophos/security/advisories/new) or email contact@isaacadjei.me with details and reproduction steps. Expect an acknowledgement within a few days.
+> Report privately, never in a public issue. Use [GitHub private vulnerability reporting](https://github.com/melophos/melophos/security/advisories/new) or email contact@melophos.com with details and reproduction steps. Expect an acknowledgement within a few days.
