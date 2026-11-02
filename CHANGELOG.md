@@ -13,6 +13,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- `AI_POLICY.md`, linked from the README and SUPPORT.md.
+- Community files follow the [AI policy](https://github.com/melophos/.github/blob/main/AI_POLICY.md): pull requests declare AI use and issue forms ask whether AI helped. Security reports go to security@melophos.com.
 - Conduct reports, security reports and general enquiries go to contact@melophos.com.
 - The profile's Built with icons are now categorised tables with each name under its icon: animated icons where they exist and matching static logos elsewhere.
 - The profile's Built with section opens with a row of static technology icons that follows the viewer's light or dark theme.

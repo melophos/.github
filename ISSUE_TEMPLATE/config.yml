@@ -9,3 +9,6 @@ contact_links:
   - name: Report a vulnerability
     url: https://github.com/melophos/melophos/security/advisories/new
     about: Report security issues privately, never in a public issue.
+  - name: AI policy
+    url: https://github.com/melophos/.github/blob/main/AI_POLICY.md
+    about: How AI may and may not be used in issues and pull requests here.

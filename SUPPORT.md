@@ -2,6 +2,7 @@
 
 - **Questions and ideas:** [GitHub Discussions](https://github.com/melophos/melophos/discussions) on the monorepo
 - **Bugs:** [issues on melophos/melophos](https://github.com/melophos/melophos/issues/new/choose)
+- **Using AI in a contribution:** read the [AI policy](https://github.com/melophos/.github/blob/main/AI_POLICY.md) first
 - **Security vulnerabilities:** follow [SECURITY.md](SECURITY.md), never a public issue
 - **Anything else:** contact@melophos.com
 

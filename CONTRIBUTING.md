@@ -9,4 +9,6 @@ The full guide, with the checks to run and the style rules, is [CONTRIBUTING.md 
 
 The quickest first contribution is an instrument profile for a keyboard or guitar that is not covered yet, see [profiles/README.md](https://github.com/melophos/melophos/blob/main/profiles/README.md).
 
-More about the maintainer: [isaacadjei.me](https://isaacadjei.me).
+## Using AI
+
+AI tools are welcome within the [AI policy](https://github.com/melophos/.github/blob/main/AI_POLICY.md). **Every pull request must say how AI was used, even when the answer is None.** Write your own issue and pull request titles and descriptions, understand everything you submit and test it before you open it.
