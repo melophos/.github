@@ -72,7 +72,7 @@ The written plan, with targets for each version, is in [docs/roadmap.md](https:/
 
 ### Languages
 
-| <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60"> | <img src="https://cdn.simpleicons.org/rust/000000/ffffff" alt="Rust" width="60"> | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60"> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60"> |
+| <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/cpp-icon.svg" alt="C++" width="60"> | <img src="https://cdn.simpleicons.org/rust/000000/ffffff" alt="Rust" width="60"> | <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/python-icon.svg" alt="Python" width="60"> | <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/ts-icon.svg" alt="TypeScript" width="60"> |
 | :---: | :---: | :---: | :---: |
 | **C++** | **Rust** | **Python** | **TypeScript** |
 
@@ -84,7 +84,7 @@ The written plan, with targets for each version, is in [docs/roadmap.md](https:/
 
 ### Server and data
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"> | <img src="https://cdn.simpleicons.org/timescale/FDB515" alt="TimescaleDB" width="60"> | <img src="https://cdn.simpleicons.org/mqtt/660066/ffffff" alt="MQTT" width="60"> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"> | <img src="https://cdn.simpleicons.org/timescale/FDB515" alt="TimescaleDB" width="60"> | <img src="https://cdn.simpleicons.org/mqtt/660066/ffffff" alt="MQTT" width="60"> | <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/docker-icon.svg" alt="Docker" width="60"> |
 | :---: | :---: | :---: | :---: | :---: |
 | **FastAPI** | **PostgreSQL** | **TimescaleDB** | **MQTT** | **Docker** |
 
